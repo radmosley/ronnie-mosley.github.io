@@ -1,0 +1,51 @@
+.wrapper{
+    max-width:1000px;
+}
+.container {
+    width: 800px;
+    margin: auto;
+}
+
+a {
+text-decoration: none;
+color:fff;
+}
+
+img {
+    float: left;
+    height: 80px;
+    margin: 10 0 0 10;
+}
+
+p {
+margin:10px;
+}
+
+.navbar{
+    background-color: rgb(71, 170, 137);
+    height: 100px;
+}
+
+.menu {
+    float:left;
+}
+
+.content{
+
+}
+
+li {
+    display:inline-block;
+    padding:20px;
+    text-decoration: none;
+}
+
+ul {
+    margin: 0;
+    padding:0;
+}
+
+nav li {
+    float:left;
+    display: block;
+}
